@@ -1,0 +1,9 @@
+{
+    "database": {
+        "url": "172.16.96.129",
+        "port": "15984",
+        "username": "",
+        "password": "",
+        "prefix": ""
+    }
+}
